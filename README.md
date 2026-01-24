@@ -3,7 +3,7 @@
 A Docker image that combines Wine with .NET SDK 10.0, allowing you to run .NET applications and Windows executables in a containerized Linux environment. This image also includes Inno Setup for creating Windows installers.
 
 ![GitHub Release](https://img.shields.io/github/v/release/andreseko/dockerWineDotnetCore)
-[[GitHub License](https://img.shields.io/github/license/andreseko/dockerWineDotnetCore)
+![GitHub License](https://img.shields.io/github/license/andreseko/dockerWineDotnetCore)
 
 ## Features
 
