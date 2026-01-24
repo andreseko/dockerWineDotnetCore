@@ -2,6 +2,9 @@
 
 A Docker image that combines Wine with .NET SDK 10.0, allowing you to run .NET applications and Windows executables in a containerized Linux environment. This image also includes Inno Setup for creating Windows installers.
 
+[![GitHub Release][releases-shield]][releases]
+[![License][license-shield]](LICENSE)
+
 ## Features
 
 - Wine (latest version) for running Windows applications
