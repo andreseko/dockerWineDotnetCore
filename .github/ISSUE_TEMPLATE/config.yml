@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Docker Hub
+    url: https://hub.docker.com/r/andregoncabr/winedotnetcore
+    about: View the Docker image on Docker Hub
+  - name: Discussions
+    url: https://github.com/andreseko/dockerWineDotnetCore/discussions
+    about: Ask questions and discuss ideas
